@@ -26,4 +26,4 @@ The associated paper for this work can be found [here](https://ieeexplore.ieee.o
 
 ## Our Paper
 
-- **Source:** [IEEE Paper on the Analysis] (https://ieeexplore.ieee.org/abstract/document/10464795) of the code.
+- **Source:** [IEEE Paper on the Analysis](https://ieeexplore.ieee.org/abstract/document/10464795) of the code.
